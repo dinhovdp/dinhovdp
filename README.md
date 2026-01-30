@@ -1,13 +1,9 @@
 ## Bem-vindo(a) ao perfil do Edson 😁
 
-<div align="center">
-  <a href="https://github.com/dinhovdp">
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=dinhovdp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhovdp&layout=compact&langs_count=6&theme=tokyonight" />
-  </a>
-</div>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinhovdp&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinhovdp&theme=tokyonight)
+
+
 
     
 <div style="display: inline_block"><br>
@@ -19,12 +15,12 @@
  
 <br>
  
-### Me segue a gente nas redes abaixo!
+### Me segue a nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href= "mailto:dinhovdp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/edson-n-324a60155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
